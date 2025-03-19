@@ -30,8 +30,6 @@ Header.js: Header component for navigation.
 
 Footer.js: Footer component for additional information.
 
-
-
 ### Styling
 The application is styled using CSS, with each component having its own dedicated stylesheet. This ensures a consistent and visually appealing user experience across the application.
 
