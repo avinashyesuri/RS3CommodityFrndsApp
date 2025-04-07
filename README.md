@@ -17,7 +17,6 @@ Search and Filter: Functionality to search and filter friends based on specific 
 
 Footer: A footer component for additional links and information.
 
-
 ### Components
 App.js: The main component that sets up the routing for the application.
 
