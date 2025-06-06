@@ -7,11 +7,8 @@ Landing Page: A welcoming page that introduces the application.
 Header Navigation: A dynamic header that allows users to navigate through the app's various sections.
 
 Friend List Display: A component that displays a list of all friends retrieved from the database.
-
 Add/Edit Friend Form: A form component where users can input new friend information or edit existing entries.
-
 Search and Filter: Functionality to search and filter friends based on specific criteria.
-
 Footer: A footer component for additional links and information.
 
 ### Components
