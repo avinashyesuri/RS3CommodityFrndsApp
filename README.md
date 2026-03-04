@@ -8,7 +8,6 @@ Friend List Display: A component that displays a list of all friends retrieved f
 Add/Edit Friend Form: A form component where users can input new friend information or edit existing entries.
 Search and Filter: Functionality to search and filter friends based on specific criteria.
 Footer: A footer component for additional links and information.
-
 ### Components
 App.js: The main component that sets up the routing for the application.
 
