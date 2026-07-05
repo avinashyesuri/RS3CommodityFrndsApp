@@ -1,5 +1,3 @@
-
-
 ### Friend Management Application
 
 ### Overview
