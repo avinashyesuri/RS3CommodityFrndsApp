@@ -17,7 +17,6 @@ FriendList.js: Displays all friends from the database.
 FriendForm.js: A form for adding or editing friend information.
 
 Header.js: Header component for navigation.
-
 Footer.js: Footer component for additional information.
 
 ### Styling
